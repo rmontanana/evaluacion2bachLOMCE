@@ -27,6 +27,7 @@ El modelo se basa en los siguientes principios:
 * Las calificaciones de estos exámenes se pasan automáticamente a la hoja de evaluaciones.
 
 ## Hoja de evaluaciones
+*	En la pestaña de alumnos rellenaremos el nombre del grupo y de los alumnos que aparecerán en todas las hojas de exámenes y de evaluciones que utilicemos.
 * En este libro tenemos una hoja por cada evaluación de la primera a la tercera, una por cada recuperación de la primera a la tercera, una para la evaluación ordinaria y otra para la extraordinaria.
 * La hoja de la primera evaluación obtiene las calificaciones introducidas en las hojas de exámenes marcadas como Examen11, Examen12 y Examen13
 * La hoja de la segunda evaluación obtiene las calificaciones introducidas en las hojas de exámenes marcadas como Examen21, Examen22 y Examen23. 
