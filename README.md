@@ -27,7 +27,7 @@ El modelo se basa en los siguientes principios:
 * Las calificaciones de estos exámenes se pasan automáticamente a la hoja de evaluaciones.
 
 ## Hoja de evaluaciones
-*	En la pestaña de alumnos rellenaremos el nombre del grupo y de los alumnos que aparecerán en todas las hojas de exámenes y de evaluciones que utilicemos.
+* En la pestaña de alumnos rellenaremos el nombre del grupo y de los alumnos, así como su email, que aparecerán en todas las hojas de exámenes y de evaluciones que utilicemos.
 * En este libro tenemos una hoja por cada evaluación de la primera a la tercera, una por cada recuperación de la primera a la tercera, una para la evaluación ordinaria y otra para la extraordinaria.
 * La hoja de la primera evaluación obtiene las calificaciones introducidas en las hojas de exámenes marcadas como Examen11, Examen12 y Examen13
 * La hoja de la segunda evaluación obtiene las calificaciones introducidas en las hojas de exámenes marcadas como Examen21, Examen22 y Examen23. 
@@ -37,6 +37,9 @@ El modelo se basa en los siguientes principios:
 * Hay que tener cuidado en la tercera evaluación de no modificar los criterios de evaluación trabajados en las anteriores evaluaciones, se deja desprotegido con el objetivo de permitir realizar una recuperación global al final del curso.
 * En la Segunda evaluación aparecerán las calificaciones obtenidas del bloque 2 y del 3 hasta el 3.9 obtenidas en la recuperación de la primera (si no se toca en la recuperación, serán las mismas que las de la primera).
 * En la Tercera evaluación aparecerán las calificaciones obtenidas en los bloques 2, 3 y 4 en las anteriores evaluaciones.
+* Permite la generación de informes de evaluación para los alumnos en formato PDF y también permite enviarlos de forma automática por email a los alumnos (únicamente en Mac).
+* Para que funcione el envío en Mac hay que copiar el archivo scpt en $Home/Library/Application Scripts/com.microsoft.Excel
+
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
